@@ -61,9 +61,12 @@ nav img{
 .about{
     width: 80%;
     margin:auto;
-    text-align: center, justify;
     padding-top:100px;
     font-size: 20px;
+}
+.about ul li{
+    padding:20px;
+    text-align: center, justify;
 }
 .course{
     width:80%;
